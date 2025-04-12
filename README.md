@@ -160,3 +160,5 @@ class FruitClassifier(nn.Module):
 3. 提交你的更改：git commit -m "Add some feature"
 4. 推送更改到远程分支：git push origin feature-branch
 5. 提交 Pull Request
+## 📜 License
+This project is licensed under the [Apache License 2.0](LICENSE)
